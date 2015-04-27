@@ -51,3 +51,8 @@ You can also help assess damage, as new imagery becomes available. See [this Dig
 ##Obtaining the latest OSM Data for use in Relief Efforts
 If you are a responder, or working with any organization that needs the most up-to-date geodata for the region, a consulting company called Geofabrik has set up a download site for OSM data that will be updated every 30 minutes throughout the HOTOSM activation. Find the data in various formats (including Garmin, Shapefile, etc...) here: [http://labs.geofabrik.de/nepal/](http://labs.geofabrik.de/nepal/)
  
+ 
+#General Information Resources
+[Humanity Road Situation Reports: http://humanityroad.org/apr25nepalquake/?utm_content=buffer83b77&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer](http://humanityroad.org/apr25nepalquake/?utm_content=buffer83b77&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+Aggregator for current needs and on-the-ground situation reports.
+
