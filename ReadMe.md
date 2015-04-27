@@ -2,7 +2,7 @@
 ##A link page for humanitarian mapping resources in response to the Nepal Earthquake
 
 ###Mapping4Nepal@Stanford Introductory Workshops
-I'll be updating this page as I schedule new workshops to introduce volunteers to the basics of using the [Humanitarian OpenStreetMap Task Manager](http://tasks.hotosm.org/) and the [Tomnod](http://www.tomnod.com/campaign/nepal_earthquake_2015/map/3f8x29y15) to contribute to relief mapping for Nepal.
+I'll be updating this page as I schedule new workshops to introduce volunteers to the basics of using the [Humanitarian OpenStreetMap Task Manager](http://tasks.hotosm.org/) and [Tomnod](http://www.tomnod.com/campaign/nepal_earthquake_2015/map/3f8x29y15) to contribute to relief mapping for Nepal.
 
 ###The first Introduction to OpenStreetMap.org and the Task Manager will be held **TONIGHT, Monday April 27th, from 6pm to 7pm** at the Stanford Geospatial Center Teaching Corner in Branner Earth Science Library
 ----
@@ -63,5 +63,5 @@ http://web.stanford.edu/~maples/images/VIIRS_DNB_Nepal_Region_2015-115.png
 * [Humanity Road Situation Reports: ](http://humanityroad.org/apr25nepalquake/?utm_content=buffer83b77&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) http://humanityroad.org/apr25nepalquake/?utm_content=buffer83b77&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 Aggregator for current needs and on-the-ground situation reports.
 * [USHAHIDI Clearinghouse list for various Digital Volunteer Opportunities](http://www.ushahidi.com/2015/04/25/supporting-online-volunteer-response-to-the-nepal-earthquake/):http://www.ushahidi.com/2015/04/25/supporting-online-volunteer-response-to-the-nepal-earthquake/
-* 
+* [Access DigitalGlobe Imagery for Nepal](http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/): http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/
 
