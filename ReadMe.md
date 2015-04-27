@@ -35,7 +35,8 @@ I'll be updating this page as I schedule new workshops to introduce volunteers t
 ###The first Introduction to OpenStreetMap.org and the Task Manager will be held **TONIGHT, Monday April 27th, from 6pm to 7pm** 
 
 
-#Basic Information for Contributing **RIGHT NOW**  
+#Basic Information for Contributing **RIGHT NOW** 
+###Working on OpenStreetMap Tasks
 If you want to contribute IMMEDIATELY to ongoing Humanitarian Mapping efforts for Nepal through Humanitarian OpenStreetMap.org, please do the following:
 
 Go through the 30 minute training on http://mapgive.state.gov to learn the basics of humanitarian mapping using OpenStreetMap.org
@@ -43,7 +44,7 @@ Go through the 30 minute training on http://mapgive.state.gov to learn the basic
 Then go to the HOTOSM Task Manager at http://tasks.hotosm.org/ and select a job that you feel comfortable contributing to. Read the directions carefully for the job, then select one of the squares next to one that is marked as complete. This will allow you to pan to the completed square so you can see how others are digitizing the features and mimic their work. 
 
 It doesn't matter how long you work, or how many features you digitize. There are currently hundreds of people mapping on HOTOSM for the Nepal Earthquake.Every edit counts.
- 
+###Assessing Damage with **Tomnod**
 You can also help assess damage, as new imagery becomes available. See [this DigitalGlobe post](http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/) for information:
  
 [http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/](http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/)
@@ -53,6 +54,8 @@ If you are a responder, or working with any organization that needs the most up-
  
  
 #General Information Resources
-[Humanity Road Situation Reports: http://humanityroad.org/apr25nepalquake/?utm_content=buffer83b77&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer](http://humanityroad.org/apr25nepalquake/?utm_content=buffer83b77&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [Humanity Road Situation Reports: ](http://humanityroad.org/apr25nepalquake/?utm_content=buffer83b77&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) http://humanityroad.org/apr25nepalquake/?utm_content=buffer83b77&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 Aggregator for current needs and on-the-ground situation reports.
+* [USHAHIDI Clearinghouse list for various Digital Volunteer Opportunities](http://www.ushahidi.com/2015/04/25/supporting-online-volunteer-response-to-the-nepal-earthquake/):http://www.ushahidi.com/2015/04/25/supporting-online-volunteer-response-to-the-nepal-earthquake/
+* 
 
