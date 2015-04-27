@@ -32,11 +32,12 @@ Go through the 30 minute training on http://mapgive.state.gov to learn the basic
 
 Then go to the HOTOSM Task Manager at http://tasks.hotosm.org/ and select a job that you feel comfortable contributing to. Read the directions carefully for the job, then select one of the squares next to one that is marked as complete. This will allow you to pan to the completed square so you can see how others are digitizing the features and mimic their work. 
 
-It doesn't matter how long you work, or how many features you digitize. There are currently hundreds of people mapping on HOTOSM for the #NepalEarthquake.#Everyeditcounts.
+It doesn't matter how long you work, or how many features you digitize. There are currently hundreds of people mapping on HOTOSM for the Nepal Earthquake.Every edit counts.
  
-You can also help assess damage, as new imagery becomes available. See this DigitalGlobe post for information:
+You can also help assess damage, as new imagery becomes available. See [this DigitalGlobe post](http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/) for information:
  
-http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/
+[http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/](http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/)
 
-If you are a responder, or working with any organization that needs the most up-to-date geodata for the region, a consulting company called Geofabrik has set up a download site for OSM data that will be updated every 30 minutes throughout the HOTOSM activation. Find the data in various formats (including Garmin, Shapefile, etc...) here: http://labs.geofabrik.de/nepal/
+##Obtaining the latest OSM Data for use in Relief Efforts
+If you are a responder, or working with any organization that needs the most up-to-date geodata for the region, a consulting company called Geofabrik has set up a download site for OSM data that will be updated every 30 minutes throughout the HOTOSM activation. Find the data in various formats (including Garmin, Shapefile, etc...) here: [http://labs.geofabrik.de/nepal/](http://labs.geofabrik.de/nepal/)
  
