@@ -19,7 +19,7 @@ Anyone with a laptop and spare time is welcome to come to the Library and any of
 
 [Here is a map](http://www.openstreetmap.org/?mlat=37.42656&mlon=-122.17287#map=19/37.42656/-122.17287): http://www.openstreetmap.org/?mlat=37.42656&mlon=-122.17287#map=19/37.42656/-122.17287
 
-![Stanford Geospatial Center Location](images/teachingcentermap.png)
+![Stanford Geospatial Center Location](https://raw.githubusercontent.com/StanfordGeospatialCenter/Map4Nepal_Resources/master/images/teachingcentermap.png)
 
 
 ####Stanford Geospatial Center Teaching Corner Hours for Map4Nepal@Stanford
