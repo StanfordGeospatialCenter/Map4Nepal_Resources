@@ -1,7 +1,7 @@
 #Map4Nepal@Stanford Resources	
 ##A link page for humanitarian mapping resources in response to the Nepal Earthquake
 
-<blink>###Mapping4Nepal@Stanford Introductory Workshops</blink>
+###Mapping4Nepal@Stanford Introductory Workshops
 I'll be updating this page as I schedule new workshops to introduce volunteers to the basics of using the [Humanitarian OpenStreetMap Task Manager](http://tasks.hotosm.org/) and the [Tomnod](http://www.tomnod.com/campaign/nepal_earthquake_2015/map/3f8x29y15) to contribute to relief mapping for Nepal.
 
 ###The first Introduction to OpenStreetMap.org and the Task Manager will be held **TONIGHT, Monday April 27th, from 6pm to 7pm** 
