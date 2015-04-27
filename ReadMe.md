@@ -37,6 +37,8 @@ I'll be updating this page as I schedule new workshops to introduce volunteers t
 
 #Basic Information for Contributing **RIGHT NOW** 
 ###Working on OpenStreetMap Tasks
+[General Info on the OSM Humanitarian Mapping effort](http://wiki.openstreetmap.org/wiki/2015_Nepal_earthquake): http://wiki.openstreetmap.org/wiki/2015_Nepal_earthquake
+
 If you want to contribute IMMEDIATELY to ongoing Humanitarian Mapping efforts for Nepal through Humanitarian OpenStreetMap.org, please do the following:
 
 Go through the 30 minute training on http://mapgive.state.gov to learn the basics of humanitarian mapping using OpenStreetMap.org
