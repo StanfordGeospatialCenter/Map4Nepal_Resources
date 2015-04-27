@@ -1,13 +1,23 @@
 #Map4Nepal@Stanford Resources	
 ##A link page for humanitarian mapping resources in response to the Nepal Earthquake
 
+<blink>###Mapping4Nepal@Stanford Introductory Workshops</blink>
+I'll be updating this page as I schedule new workshops to introduce volunteers to the basics of using the [Humanitarian OpenStreetMap Task Manager](http://tasks.hotosm.org/) and the [Tomnod](http://www.tomnod.com/campaign/nepal_earthquake_2015/map/3f8x29y15) to contribute to relief mapping for Nepal.
+
+###The first Introduction to OpenStreetMap.org and the Task Manager will be held **TONIGHT, Monday April 27th, from 6pm to 7pm** 
+----
+
 This page is really just intended to be a spot for me to put links to the resources I am paying attention to and using as I help volunteers at Stanford to humanitarian mapping in response to the Nepal Earthquake. If you find it useful, that's great. It's not authoritative, comprehensive or static.
 
 Email me at stacemaples@stanford.edu if you need to.
 
 ----
 ###Stanford Geospatial Center Teaching Corner Map4Nepal@Stanford Co-location & Support
-I will be relocating from my office to the **Stanford Geospatial Center Teaching Corner** in order to help support those who are interested in contributing to mapping efforts for disaster relief, in Nepal. The Stanford Geospatial Center Teaching Corner is located in the Northwest Corner of the Mitchell Earth Science Building, on the 2nd floor, in the Branner Earth Sciences Library. [Here is a map](http://www.openstreetmap.org/?mlat=37.42656&mlon=-122.17287#map=19/37.42656/-122.17287): http://www.openstreetmap.org/?mlat=37.42656&mlon=-122.17287#map=19/37.42656/-122.17287
+Beginning at Noon, today (Monday, April 27th)I will be relocating from my office to the **Stanford Geospatial Center Teaching Corner** in order to help support those who are interested in contributing to mapping efforts for disaster relief, in Nepal. The Stanford Geospatial Center Teaching Corner is located in the Northwest Corner of the Mitchell Earth Science Building, on the 2nd floor, in the Branner Earth Sciences Library. 
+
+Anyone with a laptop and spare time is welcome to come to the Library and any of the **Introductory Relief Mapping** sessions I will be holding. ***You do not need to be a Stanford Affiliate!*** If you are not a Stanford affiliate, we can connect you to the Stanford Guest WiFi to work on relief mapping, or participate in the workshops.
+
+[Here is a map](http://www.openstreetmap.org/?mlat=37.42656&mlon=-122.17287#map=19/37.42656/-122.17287): http://www.openstreetmap.org/?mlat=37.42656&mlon=-122.17287#map=19/37.42656/-122.17287
 
 ![Stanford Geospatial Center Location](images/teachingcentermap.png)
 
