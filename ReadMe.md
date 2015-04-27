@@ -54,6 +54,12 @@ If you are a responder, or working with any organization that needs the most up-
  
  
 #General Information Resources
+[![OCHA Assessment map](http://web.stanford.edu/~maples/images/VIIRS_DNB_Nepal_Region_2015-115.png)](http://web.stanford.edu/~maples/images/VIIRS_DNB_Nepal_Region_2015-115.png)
+
+http://web.stanford.edu/~maples/images/VIIRS_DNB_Nepal_Region_2015-115.png
+
+
+
 * [Humanity Road Situation Reports: ](http://humanityroad.org/apr25nepalquake/?utm_content=buffer83b77&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) http://humanityroad.org/apr25nepalquake/?utm_content=buffer83b77&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 Aggregator for current needs and on-the-ground situation reports.
 * [USHAHIDI Clearinghouse list for various Digital Volunteer Opportunities](http://www.ushahidi.com/2015/04/25/supporting-online-volunteer-response-to-the-nepal-earthquake/):http://www.ushahidi.com/2015/04/25/supporting-online-volunteer-response-to-the-nepal-earthquake/
