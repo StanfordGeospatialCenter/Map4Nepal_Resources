@@ -1,7 +1,11 @@
 #Map4Nepal@Stanford Resources	
-##A link page for humanitarian mapping resources in response to the Nepal Earthquake
+**A link page for humanitarian mapping resources in response to the Nepal Earthquake**
 
-###Mapping4Nepal@Stanford Introductory Workshops
+This page is intended to be a place for me to put links to the resources I am paying attention to and using as I help volunteers at Stanford to humanitarian mapping in response to the Nepal Earthquake. If you find it useful, that's great. It's not authoritative, comprehensive or static.
+
+Email me at stacemaples@stanford.edu if you need to.
+
+##Mapping4Nepal@Stanford Introductory Workshops
 I'll be updating this page as I schedule new workshops to introduce volunteers to the basics of using the [Humanitarian OpenStreetMap Task Manager](http://tasks.hotosm.org/) and [Tomnod](http://www.tomnod.com/campaign/nepal_earthquake_2015/map/3f8x29y15) to contribute to relief mapping for Nepal.
 
 ###The first Introduction to OpenStreetMap.org and the Task Manager was VERY successful, tonight. I will be holding additional workshop sessions on the following schedule:  
@@ -10,18 +14,13 @@ I'll be updating this page as I schedule new workshops to introduce volunteers t
 
 **Wednesday, April 28th, from 5pm to 6pm** at the Stanford Geospatial Center Teaching Corner in Branner Earth Science Library. Please RSVP at this link: http://www.eventbrite.com/e/map4nepal-introduction-to-openstreetmap-and-relief-mapping-tickets-16763516128
 
-**Please continue to use the Doodle poll at https://doodle.com/zu448k3uiubipy2e to register your available times for Thursday and Friday**  
-----
+Anyone with a laptop and spare time is welcome to come to the Library and any of the **Introductory Relief Mapping** sessions I will be holding. ***You do not need to be a Stanford Affiliate!*** If you are not a Stanford affiliate, we can connect you to the Stanford Guest WiFi to work on relief mapping, or participate in the workshops.
 
-This page is really just intended to be a spot for me to put links to the resources I am paying attention to and using as I help volunteers at Stanford to humanitarian mapping in response to the Nepal Earthquake. If you find it useful, that's great. It's not authoritative, comprehensive or static.
-
-Email me at stacemaples@stanford.edu if you need to.
+###Please continue to use the Doodle poll at https://doodle.com/zu448k3uiubipy2e to register your available times for Thursday and Friday  
 
 ----
 ###Stanford Geospatial Center Teaching Corner Map4Nepal@Stanford Co-location & Support
-Beginning at Noon, today (Monday, April 27th) I will reserve space in the **Stanford Geospatial Center Teaching Corner** for those who are interested in contributing to mapping efforts for disaster relief, in Nepal. The Stanford Geospatial Center Teaching Corner is located in the Northwest Corner of the Mitchell Earth Science Building, on the 2nd floor, in the Branner Earth Sciences Library. If You need assistance getting started, and can't make one of the Workshops, please come by my office and I will get you pointed in the right direction.
-
-Anyone with a laptop and spare time is welcome to come to the Library and any of the **Introductory Relief Mapping** sessions I will be holding. ***You do not need to be a Stanford Affiliate!*** If you are not a Stanford affiliate, we can connect you to the Stanford Guest WiFi to work on relief mapping, or participate in the workshops.
+The **Stanford Geospatial Center Teaching Corner** has been reserved for the week of April 26th - May 1st for those who are interested in contributing to mapping efforts for disaster relief, in Nepal. The Stanford Geospatial Center Teaching Corner is located in the Northwest Corner of the Mitchell Earth Science Building, on the 2nd floor, in the Branner Earth Sciences Library. If You need assistance getting started, and can't make one of the Workshops, please come by my office and I will get you pointed in the right direction.
 
 [Here is a map](http://www.openstreetmap.org/?mlat=37.42656&mlon=-122.17287#map=19/37.42656/-122.17287): http://www.openstreetmap.org/?mlat=37.42656&mlon=-122.17287#map=19/37.42656/-122.17287
 
@@ -66,16 +65,15 @@ If you are a responder, or working with any organization that needs the most up-
 http://web.stanford.edu/~maples/images/VIIRS_DNB_Nepal_Region_2015-115.png
 
 
-
 * **Humanity Road Situation Reports**:  http://humanityroad.org/apr25nepalquake/?utm_content=buffer83b77&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 Aggregator for current needs and on-the-ground situation reports.
-* **Google's Person Finder for Nepal Earthquake**: http://google.org/personfinder/2015-nepal-earthquake
-* **USHAHIDI Clearinghouse list for various Digital Volunteer Opportunities**: http://www.ushahidi.com/2015/04/25/supporting-online-volunteer-response-to-the-nepal-earthquake/
-<<<<<<< HEAD
-* **Access DigitalGlobe Imagery for Nepal**: http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/
 
-=======
+* **Google's Person Finder for Nepal Earthquake**: http://google.org/personfinder/2015-nepal-earthquake
+
+* **USHAHIDI Clearinghouse list for various Digital Volunteer Opportunities**: http://www.ushahidi.com/2015/04/25/supporting-online-volunteer-response-to-the-nepal-earthquake/
+
+* **Access DigitalGlobe Imagery for Nepal**: http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/
 * **Access DigitalGlobe Imagery for Nepal**: http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/  
->>>>>>> origin/master
-##OSM Stats
+
+##OSM Contribution Statistics Stats  
 * http://osm.townsendjennings.com/nepal/
