@@ -85,7 +85,7 @@ Aggregator for current needs and on-the-ground situation reports.
 
 * **USHAHIDI Clearinghouse list for various Digital Volunteer Opportunities**: http://www.ushahidi.com/2015/04/25/supporting-online-volunteer-response-to-the-nepal-earthquake/
 
-* **Access DigitalGlobe Imagery for Nepal**: http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/
+* **IMPACTS OF POTENTIAL SEISMIC LANDSLIDES ON LIFELINE CORRIDORS Final Report SPR 740** (Landslide vulnerability models) http://www.oregon.gov/ODOT/TD/TP_RES/docs/Reports/2015/SPR740SeismicLandslides.pdf
 
 
 ##OSM Contribution Statistics Stats & Information:  
