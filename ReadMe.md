@@ -16,7 +16,7 @@ I'll be updating this page as I schedule new workshops to introduce volunteers t
 
 Anyone with a laptop and spare time is welcome to come to the Library and any of the **Introductory Relief Mapping** sessions I will be holding. ***You do not need to be a Stanford Affiliate!*** If you are not a Stanford affiliate, we can connect you to the Stanford Guest WiFi to work on relief mapping, or participate in the workshops.
 
-###Please continue to use the Doodle poll at https://doodle.com/zu448k3uiubipy2e to register your available times for Thursday and Friday  
+###Please continue to use the Doodle poll at  https://doodle.com/zu448k3uiubipy2e to register your available times for Thursday and Friday  
 
 ----
 ###Stanford Geospatial Center Teaching Corner Map4Nepal@Stanford Co-location & Support
