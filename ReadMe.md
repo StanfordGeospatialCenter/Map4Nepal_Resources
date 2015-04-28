@@ -10,10 +10,10 @@ I'll be updating this page as I schedule new workshops to introduce volunteers t
 
 ###The first Introduction to OpenStreetMap.org and the Task Manager was VERY successful, tonight. I will be holding additional workshop sessions on the following schedule:  
 
-###Tuesday April 27th, from noon to 1pm   
+###Tuesday April 28th, from noon to 1pm   
 at the Stanford Geospatial Center Teaching Corner in Branner Earth Science Library. Please RSVP at this link: https://www.eventbrite.com/e/map4nepal-introduction-to-openstreetmap-and-relief-mapping-tickets-16760240330 
 
-###Wednesday, April 28th, from 5pm to 6pm  
+###Wednesday, April 29th, from 5pm to 6pm  
 at the Stanford Geospatial Center Teaching Corner in Branner Earth Science Library. Please RSVP at this link: http://www.eventbrite.com/e/map4nepal-introduction-to-openstreetmap-and-relief-mapping-tickets-16763516128
 
 Anyone with a laptop and spare time is welcome to come to the Library and any of the **Introductory Relief Mapping** sessions I will be holding. ***You do not need to be a Stanford Affiliate!*** If you are not a Stanford affiliate, we can connect you to the Stanford Guest WiFi to work on relief mapping, or participate in the workshops.
