@@ -1,7 +1,7 @@
 #Map4Nepal@Stanford Resources	
 **A link page for humanitarian mapping resources in response to the Nepal Earthquake**
 
-This page is intended to be a place for me to put links to the resources I am paying attention to and using as I help volunteers at Stanford to humanitarian mapping in response to the Nepal Earthquake. If you find it useful, that's great. It's not authoritative, comprehensive or static.
+This page is intended to be a place for me to put links to the resources I am paying attention to and using as I help volunteers at Stanford do humanitarian mapping in response to the Nepal Earthquake. If you find it useful, that's great. It's not authoritative, comprehensive or static.
 
 Email me at stacemaples@stanford.edu if you need to.
 
