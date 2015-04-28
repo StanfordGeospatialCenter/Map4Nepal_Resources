@@ -67,3 +67,5 @@ Aggregator for current needs and on-the-ground situation reports.
 * **Google's Person Finder for Nepal Earthquake**: http://google.org/personfinder/2015-nepal-earthquake
 * **USHAHIDI Clearinghouse list for various Digital Volunteer Opportunities**: http://www.ushahidi.com/2015/04/25/supporting-online-volunteer-response-to-the-nepal-earthquake/
 * **Access DigitalGlobe Imagery for Nepal**: http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/
+##OSM Stats
+8 http://osm.townsendjennings.com/nepal/
