@@ -50,6 +50,10 @@ Go through the 30 minute training on http://mapgive.state.gov to learn the basic
 Then go to the HOTOSM Task Manager at http://tasks.hotosm.org/ and select a job that you feel comfortable contributing to. Read the directions carefully for the job, then select one of the squares next to one that is marked as complete. This will allow you to pan to the completed square so you can see how others are digitizing the features and mimic their work. 
 
 It doesn't matter how long you work, or how many features you digitize. There are currently hundreds of people mapping on HOTOSM for the Nepal Earthquake.Every edit counts.
+
+###For examples of Before and After Earthquake Damage Assessments from Satellite Imagery  
+http://unosat-maps.web.cern.ch/unosat-maps/NP/EQ20150425NPL/UNOSAT_Nepal_20150427_v1.pdf
+
 ###Assessing Damage with **Tomnod**
 You can also help assess damage, as new imagery becomes available. See [this DigitalGlobe post](http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/) for information:
  
@@ -60,6 +64,7 @@ If you are a responder, or working with any organization that needs the most up-
  
  
 #General Information Resources
+
 [![OCHA Assessment map](http://web.stanford.edu/~maples/images/VIIRS_DNB_Nepal_Region_2015-115.png)](http://web.stanford.edu/~maples/images/VIIRS_DNB_Nepal_Region_2015-115.png)
 
 http://web.stanford.edu/~maples/images/VIIRS_DNB_Nepal_Region_2015-115.png
