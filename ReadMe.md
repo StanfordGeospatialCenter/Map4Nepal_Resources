@@ -13,7 +13,7 @@ Email me at stacemaples@stanford.edu if you need to.
 
 ----
 ###Stanford Geospatial Center Teaching Corner Map4Nepal@Stanford Co-location & Support
-Beginning at Noon, today (Monday, April 27th)I will be relocating from my office to the **Stanford Geospatial Center Teaching Corner** in order to help support those who are interested in contributing to mapping efforts for disaster relief, in Nepal. The Stanford Geospatial Center Teaching Corner is located in the Northwest Corner of the Mitchell Earth Science Building, on the 2nd floor, in the Branner Earth Sciences Library. 
+Beginning at Noon, today (Monday, April 27th)I will reserve space in the **Stanford Geospatial Center Teaching Corner** for those who are interested in contributing to mapping efforts for disaster relief, in Nepal. The Stanford Geospatial Center Teaching Corner is located in the Northwest Corner of the Mitchell Earth Science Building, on the 2nd floor, in the Branner Earth Sciences Library. 
 
 Anyone with a laptop and spare time is welcome to come to the Library and any of the **Introductory Relief Mapping** sessions I will be holding. ***You do not need to be a Stanford Affiliate!*** If you are not a Stanford affiliate, we can connect you to the Stanford Guest WiFi to work on relief mapping, or participate in the workshops.
 
@@ -22,8 +22,7 @@ Anyone with a laptop and spare time is welcome to come to the Library and any of
 ![Stanford Geospatial Center Location](https://raw.githubusercontent.com/StanfordGeospatialCenter/Map4Nepal_Resources/master/images/teachingcentermap.png)
 
 
-####Stanford Geospatial Center Teaching Corner Hours for Map4Nepal@Stanford
-I am blocking off the schedule for the SGC Teaching Corner for the week. If you would like to co-locate and contribute to mapping, here are the hours the teaching corner will be available. I will be out of town over the weekend, but depending on need and interest, I may continue **Teaching Corner Hours** nest week, as well. *Please note that food is not allowed in the library facilities, but drinks in spill-proof containers are acceptable.*
+*Please note that food is not allowed in the library facilities, but drinks in spill-proof containers are acceptable.*
 
 **Teaching Corner Hours:**  
 **Monday - Thursday**: 9am - 9pm  
