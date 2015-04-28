@@ -47,9 +47,9 @@ I'll be updating this page as I schedule new workshops to introduce volunteers t
 
 If you want to contribute IMMEDIATELY to ongoing Humanitarian Mapping efforts for Nepal through Humanitarian OpenStreetMap.org, please do the following:
 
-Go through the 30 minute training on http://mapgive.state.gov to learn the basics of humanitarian mapping using OpenStreetMap.org
+**First** go through the 30 minute training on http://mapgive.state.gov to learn the basics of humanitarian mapping using OpenStreetMap.org
 
-Then go to the HOTOSM Task Manager at http://tasks.hotosm.org/ and select a job that you feel comfortable contributing to. Read the directions carefully for the job, then select one of the squares next to one that is marked as complete. This will allow you to pan to the completed square so you can see how others are digitizing the features and mimic their work. 
+**Then** go to the HOTOSM Task Manager at http://tasks.hotosm.org/ and select a job that you feel comfortable contributing to. Read the directions carefully for the job, then select one of the squares next to one that is marked as complete. This will allow you to pan to the completed square so you can see how others are digitizing the features and mimic their work. 
 
 It doesn't matter how long you work, or how many features you digitize. There are currently hundreds of people mapping on HOTOSM for the Nepal Earthquake.Every edit counts.
 
