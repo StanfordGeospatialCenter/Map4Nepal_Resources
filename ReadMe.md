@@ -56,7 +56,8 @@ It doesn't matter how long you work, or how many features you digitize. There ar
 ###Additional Tutorials and HOTOSM Resources
 * **For examples of Before and After Earthquake Damage Assessments from Satellite Imagery**  
 http://unosat-maps.web.cern.ch/unosat-maps/NP/EQ20150425NPL/UNOSAT_Nepal_20150427_v1.pdf
-* **Guidance for Mapping IDP (Internally Displaced People) Camps in the Nepal HOTOSM Tasks** http://hotosm.github.io/tracing-guides/guide/Nepal.html#IDP Collection Guidance
+* **Guidance for Mapping IDP (Internally Displaced People) Camps in the Nepal HOTOSM Tasks**  
+http://hotosm.github.io/tracing-guides/guide/Nepal.html  
 
 ###Assessing Damage with **Tomnod**
 You can also help assess damage, as new imagery becomes available. See [this DigitalGlobe post](http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/) for information:
