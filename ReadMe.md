@@ -60,9 +60,13 @@ http://unosat-maps.web.cern.ch/unosat-maps/NP/EQ20150425NPL/UNOSAT_Nepal_2015042
 You can also help assess damage, as new imagery becomes available. See [this DigitalGlobe post](http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/) for information:
  
 [http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/](http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/)
-
-#Obtaining the latest OSM Data for use in Relief Efforts
+##Data Sources  
+###Obtaining the latest OSM Data for use in Relief Efforts
 If you are a responder, or working with any organization that needs the most up-to-date geodata for the region, a consulting company called Geofabrik has set up a download site for OSM data that will be updated every 30 minutes throughout the HOTOSM activation. Find the data in various formats (including Garmin, Shapefile, etc...) here: [http://labs.geofabrik.de/nepal/](http://labs.geofabrik.de/nepal/)
+
+* **Google Media Alert: New Satellite Imagery of Kathmandu and more...** https://groups.google.com/forum/#!topic/google-media-updates/3MwXYXizpnc
+
+* **Access DigitalGlobe Imagery for Nepal**: http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/  
  
  
 #General Information Resources
@@ -80,7 +84,7 @@ Aggregator for current needs and on-the-ground situation reports.
 * **USHAHIDI Clearinghouse list for various Digital Volunteer Opportunities**: http://www.ushahidi.com/2015/04/25/supporting-online-volunteer-response-to-the-nepal-earthquake/
 
 * **Access DigitalGlobe Imagery for Nepal**: http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/
-* **Access DigitalGlobe Imagery for Nepal**: http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/  
+
 
 ##OSM Contribution Statistics Stats & Information:  
  
