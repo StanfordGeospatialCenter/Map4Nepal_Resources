@@ -4,7 +4,13 @@
 ###Mapping4Nepal@Stanford Introductory Workshops
 I'll be updating this page as I schedule new workshops to introduce volunteers to the basics of using the [Humanitarian OpenStreetMap Task Manager](http://tasks.hotosm.org/) and [Tomnod](http://www.tomnod.com/campaign/nepal_earthquake_2015/map/3f8x29y15) to contribute to relief mapping for Nepal.
 
-###The first Introduction to OpenStreetMap.org and the Task Manager will be held **TONIGHT, Monday April 27th, from 6pm to 7pm** at the Stanford Geospatial Center Teaching Corner in Branner Earth Science Library
+###The first Introduction to OpenStreetMap.org and the Task Manager was VERY successful, tonight. I will be holding additional workshop sessions on the following schedule:  
+
+**Tomorrow, Tuesday April 27th, from noon to 1pm** at the Stanford Geospatial Center Teaching Corner in Branner Earth Science Library. Please RSVP at this link: https://www.eventbrite.com/myevent?eid=16760240330
+
+**Wednesday, April 28th, from 5pm to 6pm** at the Stanford Geospatial Center Teaching Corner in Branner Earth Science Library. Please RSVP at this link: http://www.eventbrite.com/e/map4nepal-introduction-to-openstreetmap-and-relief-mapping-tickets-16763516128
+
+**Please continue to use the Doodle poll at https://doodle.com/zu448k3uiubipy2e to register your available times for Thursday and Friday**  
 ----
 
 This page is really just intended to be a spot for me to put links to the resources I am paying attention to and using as I help volunteers at Stanford to humanitarian mapping in response to the Nepal Earthquake. If you find it useful, that's great. It's not authoritative, comprehensive or static.
