@@ -5,7 +5,7 @@ This page is intended to be a place for me to put links to the resources I am pa
 
 Email me at stacemaples@stanford.edu if you need to.
 
-##Mapping4Nepal@Stanford Introductory Workshops
+#Mapping4Nepal@Stanford Introductory Workshops
 I'll be updating this page as I schedule new workshops to introduce volunteers to the basics of using the [Humanitarian OpenStreetMap Task Manager](http://tasks.hotosm.org/) and [Tomnod](http://www.tomnod.com/campaign/nepal_earthquake_2015/map/3f8x29y15) to contribute to relief mapping for Nepal.
 
 ###The first Introduction to OpenStreetMap.org and the Task Manager was VERY successful, tonight. I will be holding additional workshop sessions on the following schedule:  
@@ -61,7 +61,7 @@ You can also help assess damage, as new imagery becomes available. See [this Dig
  
 [http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/](http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/)
 
-##Obtaining the latest OSM Data for use in Relief Efforts
+#Obtaining the latest OSM Data for use in Relief Efforts
 If you are a responder, or working with any organization that needs the most up-to-date geodata for the region, a consulting company called Geofabrik has set up a download site for OSM data that will be updated every 30 minutes throughout the HOTOSM activation. Find the data in various formats (including Garmin, Shapefile, etc...) here: [http://labs.geofabrik.de/nepal/](http://labs.geofabrik.de/nepal/)
  
  
