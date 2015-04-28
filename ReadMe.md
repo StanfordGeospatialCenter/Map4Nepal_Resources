@@ -82,5 +82,7 @@ Aggregator for current needs and on-the-ground situation reports.
 * **Access DigitalGlobe Imagery for Nepal**: http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/
 * **Access DigitalGlobe Imagery for Nepal**: http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/  
 
-##OSM Contribution Statistics Stats  
+##OSM Contribution Statistics Stats & Information:  
+ 
 * http://osm.townsendjennings.com/nepal/
+* [Nepal Earthquake: Reports from OpenStreetMap Situation Room](http://kathmandulivinglabs.org/blog/)
