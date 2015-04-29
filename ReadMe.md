@@ -8,10 +8,7 @@ Email me at stacemaples@stanford.edu if you need to.
 #Mapping4Nepal@Stanford Introductory Workshops
 I'll be updating this page as I schedule new workshops to introduce volunteers to the basics of using the [Humanitarian OpenStreetMap Task Manager](http://tasks.hotosm.org/) and [Tomnod](http://www.tomnod.com/campaign/nepal_earthquake_2015/map/3f8x29y15) to contribute to relief mapping for Nepal.
 
-###The first Introduction to OpenStreetMap.org and the Task Manager was VERY successful, tonight. I will be holding additional workshop sessions on the following schedule:  
-
-###Tuesday April 28th, from noon to 1pm   
-at the Stanford Geospatial Center Teaching Corner in Branner Earth Science Library. Please RSVP at this link: https://www.eventbrite.com/e/map4nepal-introduction-to-openstreetmap-and-relief-mapping-tickets-16760240330 
+###The first Introduction to OpenStreetMap.org and the Task Manager was VERY successful, tonight. I will be holding additional workshop sessions on the following schedule:
 
 ###Wednesday, April 29th, from 5pm to 6pm  
 at the Stanford Geospatial Center Teaching Corner in Branner Earth Science Library. Please RSVP at this link: http://www.eventbrite.com/e/map4nepal-introduction-to-openstreetmap-and-relief-mapping-tickets-16763516128
@@ -38,9 +35,6 @@ The **Stanford Geospatial Center Teaching Corner** has been reserved for the wee
 ##Mapping4Nepal@Stanford Introductory Workshops
 I'll be updating this page as I schedule new workshops to introduce volunteers to the basics of using the [Humanitarian OpenStreetMap Task Manager](http://tasks.hotosm.org/) and the [Tomnod](http://www.tomnod.com/campaign/nepal_earthquake_2015/map/3f8x29y15) to contribute to relief mapping for Nepal.
 
-###The first Introduction to OpenStreetMap.org and the Task Manager will be held **TONIGHT, Monday April 27th, from 6pm to 7pm** 
-
-
 #Basic Information for Contributing **RIGHT NOW** 
 ###Working on OpenStreetMap Tasks
 [General Info on the OSM Humanitarian Mapping effort](http://wiki.openstreetmap.org/wiki/2015_Nepal_earthquake): http://wiki.openstreetmap.org/wiki/2015_Nepal_earthquake
@@ -58,6 +52,7 @@ It doesn't matter how long you work, or how many features you digitize. There ar
 http://unosat-maps.web.cern.ch/unosat-maps/NP/EQ20150425NPL/UNOSAT_Nepal_20150427_v1.pdf
 * **Guidance for Mapping IDP (Internally Displaced People) Camps in the Nepal HOTOSM Tasks**  
 http://hotosm.github.io/tracing-guides/guide/Nepal.html  
+* **OpenStreetMap Wiki Nepal Remote Mapping Guide** This guide has image examples VERY HELPFUL!: http://wiki.openstreetmap.org/wiki/Nepal_remote_mapping_guide
 
 ###Assessing Damage with **Tomnod**
 You can also help assess damage, as new imagery becomes available. See [this DigitalGlobe post](http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/) for information:
