@@ -18,8 +18,6 @@ at the Stanford Geospatial Center Teaching Corner in Branner Earth Science Libra
 
 Anyone with a laptop and spare time is welcome to come to the Library and any of the **Introductory Relief Mapping** sessions I will be holding. ***You do not need to be a Stanford Affiliate!*** If you are not a Stanford affiliate, we can connect you to the Stanford Guest WiFi to work on relief mapping, or participate in the workshops.
 
-###Please continue to use the Doodle poll at  https://doodle.com/zu448k3uiubipy2e to register your available times for Thursday and Friday  
-
 ----
 ###Stanford Geospatial Center Teaching Corner Map4Nepal@Stanford Co-location & Support
 The **Stanford Geospatial Center Teaching Corner** has been reserved for the week of April 26th - May 1st for those who are interested in contributing to mapping efforts for disaster relief, in Nepal. The Stanford Geospatial Center Teaching Corner is located in the Northwest Corner of the Mitchell Earth Science Building, on the 2nd floor, in the Branner Earth Sciences Library. If You need assistance getting started, and can't make one of the Workshops, please come by my office and I will get you pointed in the right direction.
