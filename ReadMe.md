@@ -13,6 +13,9 @@ I'll be updating this page as I schedule new workshops to introduce volunteers t
 ###Wednesday, April 29th, from 5pm to 6pm  
 at the Stanford Geospatial Center Teaching Corner in Branner Earth Science Library. Please RSVP at this link: http://www.eventbrite.com/e/map4nepal-introduction-to-openstreetmap-and-relief-mapping-tickets-16763516128
 
+###Thursday, April 30th, from 7pm to 8pm
+I will be holding an OSM Map4Nepal session hosted at the **Stanford Graduate Housing** at 119 Quillen Ct., Stanford. ALl are welcome. Bring a laptop!
+
 ###Friday, May 1st, from 2pm to 3pm  
 at the Stanford Geospatial Center Teaching Corner in Branner Earth Science Library. Please RSVP at this link: https://www.eventbrite.com/e/friday-map4nepal-introduction-to-openstreetmap-and-relief-mapping-tickets-16788735560 
 
