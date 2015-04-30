@@ -8,10 +8,7 @@ Email me at stacemaples@stanford.edu if you need to.
 #Mapping4Nepal@Stanford Introductory Workshops
 I'll be updating this page as I schedule new workshops to introduce volunteers to the basics of using the [Humanitarian OpenStreetMap Task Manager](http://tasks.hotosm.org/) and [Tomnod](http://www.tomnod.com/campaign/nepal_earthquake_2015/map/3f8x29y15) to contribute to relief mapping for Nepal.
 
-###We are presenting Introduction to OpenStreetMap.org Relief Mapping for Nepal sessions on the following schedule:
-
-###Wednesday, April 29th, from 5pm to 6pm  
-at the Stanford Geospatial Center Teaching Corner in Branner Earth Science Library. Please RSVP at this link: http://www.eventbrite.com/e/map4nepal-introduction-to-openstreetmap-and-relief-mapping-tickets-16763516128
+###We are presenting Introduction to OpenStreetMap.org Relief Mapping for Nepal training sessions on the following schedule:
 
 ###Thursday, April 30th, from 7pm to 8pm
 I will be holding an OSM Map4Nepal session hosted at the **Stanford Graduate Housing** at 119 Quillen Ct., Stanford. No sign-up, All are welcome. Bring a laptop!
