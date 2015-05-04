@@ -10,11 +10,8 @@ I'll be updating this page as I schedule new workshops to introduce volunteers t
 
 ###We are presenting Introduction to OpenStreetMap.org Relief Mapping for Nepal training sessions on the following schedule:
 
-###Thursday, April 30th, from 7pm to 8pm
-I will be holding an OSM Map4Nepal session hosted at the **Stanford Graduate Housing** at 119 Quillen Ct., Stanford. No sign-up, All are welcome. Bring a laptop!
-
-###Friday, May 1st, from 2pm to 3pm  
-at the Stanford Geospatial Center Teaching Corner in Branner Earth Science Library. Please RSVP at this link: https://www.eventbrite.com/e/friday-map4nepal-introduction-to-openstreetmap-and-relief-mapping-tickets-16788735560 
+###Friday, May 8th, from 2pm to 3pm  
+at the Stanford Geospatial Center Teaching Corner in Branner Earth Science Library. Please RSVP at this link: https://www.eventbrite.com/e/friday-map4nepal-introduction-to-openstreetmap-and-relief-mapping-tickets-16847646765 
 
 Anyone with a laptop and spare time is welcome to come to the Library and any of the **Introductory Relief Mapping** sessions I will be holding. ***You do not need to be a Stanford Affiliate!*** If you are not a Stanford affiliate, we can connect you to the Stanford Guest WiFi to work on relief mapping, or participate in the workshops.
 
