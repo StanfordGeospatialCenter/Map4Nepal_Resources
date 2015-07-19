@@ -5,34 +5,6 @@ This page is intended to be a place for me to put links to the resources I am pa
 
 Email me at stacemaples@stanford.edu if you need to.
 
-#Mapping4Nepal@Stanford Introductory Workshops
-I'll be updating this page as I schedule new workshops to introduce volunteers to the basics of using the [Humanitarian OpenStreetMap Task Manager](http://tasks.hotosm.org/) and [Tomnod](http://www.tomnod.com/campaign/nepal_earthquake_2015/map/3f8x29y15) to contribute to relief mapping for Nepal.
-
-###We are presenting Introduction to OpenStreetMap.org Relief Mapping for Nepal training sessions on the following schedule:
-
-###Friday, May 8th, from 2pm to 3pm  
-at the Stanford Geospatial Center Teaching Corner in Branner Earth Science Library. Please RSVP at this link: https://www.eventbrite.com/e/friday-map4nepal-introduction-to-openstreetmap-and-relief-mapping-tickets-16847646765 
-
-Anyone with a laptop and spare time is welcome to come to the Library and any of the **Introductory Relief Mapping** sessions I will be holding. ***You do not need to be a Stanford Affiliate!*** If you are not a Stanford affiliate, we can connect you to the Stanford Guest WiFi to work on relief mapping, or participate in the workshops.
-
-----
-###Stanford Geospatial Center Teaching Corner Map4Nepal@Stanford Co-location & Support
-The **Stanford Geospatial Center Teaching Corner** has been reserved for the week of April 26th - May 1st for those who are interested in contributing to mapping efforts for disaster relief, in Nepal. The Stanford Geospatial Center Teaching Corner is located in the Northwest Corner of the Mitchell Earth Science Building, on the 2nd floor, in the Branner Earth Sciences Library. If You need assistance getting started, and can't make one of the Workshops, please come by my office and I will get you pointed in the right direction.
-
-[Here is a map](http://www.openstreetmap.org/?mlat=37.42656&mlon=-122.17287#map=19/37.42656/-122.17287): http://www.openstreetmap.org/?mlat=37.42656&mlon=-122.17287#map=19/37.42656/-122.17287
-
-![Stanford Geospatial Center Location](https://raw.githubusercontent.com/StanfordGeospatialCenter/Map4Nepal_Resources/master/images/teachingcentermap.png)
-
-
-*Please note that food is not allowed in the library facilities, but drinks in spill-proof containers are acceptable.*
-
-**Teaching Corner Hours:**  
-**Monday - Thursday**: 9am - 9pm  
-**Friday** 9am - 5pm
-
-##Mapping4Nepal@Stanford Introductory Workshops
-I'll be updating this page as I schedule new workshops to introduce volunteers to the basics of using the [Humanitarian OpenStreetMap Task Manager](http://tasks.hotosm.org/) and the [Tomnod](http://www.tomnod.com/campaign/nepal_earthquake_2015/map/3f8x29y15) to contribute to relief mapping for Nepal.
-
 #Basic Information for Contributing **RIGHT NOW** 
 ###Working on OpenStreetMap Tasks
 [General Info on the OSM Humanitarian Mapping effort](http://wiki.openstreetmap.org/wiki/2015_Nepal_earthquake): http://wiki.openstreetmap.org/wiki/2015_Nepal_earthquake
